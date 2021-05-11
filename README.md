@@ -2,7 +2,9 @@
 
 ---
 
-![picture1](CoinSquare.png)
+
+![picture99](Images/CoinSquare.png)
+
 
 ## **Overview & Origin**
 
@@ -10,7 +12,7 @@ Today, it's unlikely that someone hasn't learned about cryptocurrencies. Cryptoc
 
 Bitcoin (BTC/USD),also known as the bellwether of the cryptocurrency industry, has grown from $1000 in 2015 to $ 56,000 today. This has piqued the interest of main street investors, creating the need for trading platforms.
 
-![picture2](BTCChart.png)
+![picture2](Images/BTCChart.png)
 
 
 *Exhibit 1.0 Bitcoin Weekly chart*
@@ -32,9 +34,9 @@ Coinsquare users are provided with wallet address to keep track of holdings in c
 
 ### **Founders & Origin Story**
 
-|![picture3](ColeDiamond.jpeg)  |  ![picture4](VirgileRostand.jpeg) |
+|![picture3](Images/ColeDiamond.jpeg)  |  ![picture4](Images/VirgileRostand.jpeg) |
 |:----:|:---:|
-|Cole Diamond | Virgile Rostand |
+|**Cole Diamond** | **Virgile Rostand** |
 
 
 
@@ -111,7 +113,6 @@ Coinsquare has adopted Maker-Taker pricing model i.e it offers rebate to those t
   * Rushed Wire
 
 ---
----
 
 ### **Technologies & Security Features**
 
@@ -166,6 +167,19 @@ US based cryptoexchange  . Apart from spot trading in cryptocurrencies, also off
 ---
 #### **Binance:**
  headquarters in Cayman Islands ,is the largest crypotexchange in the world by volume that allows its users to trade 500+ cryptocurrencies and supports 19+ fiat currencies. The exchange facilitates spot trading, margin trading,futures trading and vanilla options trading. It has partnered with Visa to offer binance cards, its users can convert and spend cryptocurrencies at 60 million+ merchants worldwide. 
+
+ **Pros**
+ * Over 500 cryptocurrencies traded on platform
+ * Low Fees
+ * Highest Trading Volumes
+ * Massive selection of transaction types, as well as futures and Option trading 
+
+ **Cons**
+ * Binance.US has very limited availability
+ * The platform is very rich in trading tools, which can overwhelm novice users
+ * Quotes against USD Fiat Currency 
+
+
 
 ---
 ---
