@@ -91,6 +91,7 @@ Coinsquare has adopted Maker-Taker pricing model i.e it offers rebate to those t
 2.	 Coinsquare -  advanced trading platform with trading controls for all 10 cryptocurrencies. This also offers charting tools to its users.
 
 </bre>
+
 ### **Funding Options**
 
 * CAD
@@ -100,6 +101,7 @@ Coinsquare has adopted Maker-Taker pricing model i.e it offers rebate to those t
   * Wealth Wire
 
 </br>
+
 ### **Withdrawal Options**
 
 * CAD
@@ -182,8 +184,8 @@ Coinsquare is wellknown for it security record and ease of trading. The company 
 
 ## **Recommendation**
 
-1.	**Regulations:**  As cryptocurrencies are relatively new, many countries have either banned it or have undefined regulations.  Hence, Coinsquare needs to nimble and have strong compliance framework to navigate the changing regulations
-2.	**User Base:** Unlike, traditional exchanges where participation is limited through broker/dealer network, potentially anybody can trade on cryptoexchange. The exchange which has highest user base and high trading volume is likely to dominate the market.  Coinsquare should focus on increasing it user base by aggressively expanding in US, Europe and Asian Markets
+1.	**Regulations:**   As cryptocurrencies are relatively new, many countries have either banned it or have undefined regulations.  Hence, Coinsquare needs to nimble and have strong compliance framework to navigate the changing regulations
+2.	**User Base:**  Unlike, traditional exchanges where participation is limited through broker/dealer network, potentially anybody can trade on cryptoexchange. The exchange which has highest user base and high trading volume is likely to dominate the market.  Coinsquare should focus on increasing it user base by aggressively expanding in US, Europe and Asian Markets
 3.	**Product Depth & Innovation:**  Apart from adding more cryptocurrencies for spot trading, Coinsquare can look at offering margin trading, crypto future and options on its platform
 4.	**Listing Policies:**  Coinsquare can look at publish policies to evaluate altcoins.
 
