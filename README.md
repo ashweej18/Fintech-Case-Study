@@ -2,7 +2,7 @@
 
 ---
 
-![](coinsquare 1.jpg)
+![picture](coinsquare.jpg)
 
 ## **Overview & Origin**
 
@@ -10,7 +10,7 @@ Today, it's unlikely that someone hasn't learned about cryptocurrencies. Cryptoc
 
 Bitcoin (BTC/USD),also known as the bellwether of the cryptocurrency industry, has grown from $1000 in 2015 to $ 56,000 today. This has piqued the interest of main street investors, creating the need for trading platforms.
 
-![Bitcoin](BTCUSD Chart.png)
+![picture](BTCChart.png)
 
 
 *Exhibit 1.0 Bitcoin Weekly chart*
@@ -32,7 +32,8 @@ Coinsquare users are provided with wallet address to keep track of holdings in c
 
 ### **Founders & Origin Story**
 
-![Cole] (Cole Diamond.jpg)     ![Virgile] (Virgile Rostand.jpg)
+![Cole](ColeDiamond.jpg)     
+![Virgile](VirgileRostand.jpg)
 
 Cole Diamond  and Virgile Rostand founded Coinsquare in 2014. In 2004, Rostand graduated with Master of Science in Mathematics. He further earned a Ph.D. in the same field of study, as well as a Master in Mathematical Finance from the University of Toronto. In 2008, in the backdrop of Great financial Crisis, Satoshi Nakamoto (anonymous creator) published a paper titled “Bitcoin :  A Peer-to-Peer Electronic Cash System”, which gave rise world’s first decentralized cryptocurrency Bitcoin. The paper delineated a peer-to-peer electronic payment system without the need for trusted third party.
 As blockchain technology started to get traction, Rostand with his background in mathematics and experience as financial engineer, found it  difficult to ignore this trend.  In  2014, he recognized the growing demand for cryptocurrency exchanges, incorporated Coinsquare.  Following the launch of platform, he carried out various functions like marketing, security analysis and support. It not until 2017, when co-founder  CEO Cole Diamond, the company started its journey towards its ambitious goal.
