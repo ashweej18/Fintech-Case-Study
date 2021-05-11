@@ -46,7 +46,6 @@ As blockchain technology started to get traction, Rostand with his background in
 ### **Funding**
 Coinsquare has raised approx. $98.5 million  of funding over 6 rounds. The lastest round came in Feb 2021 from Corporate round. The company is funded by 4 investors. Mogo and Canaccord  Genuity Group are recent investors. The most recent was from Mogo, a digital payments and financial technology company for 19.99% stake in Coinsquare for a total consideration of approx. $56.4 million.
 
-</br>
 
 ### **Acquistions**
 The company has made 5 acquistions to enhance its capabilities
@@ -85,7 +84,6 @@ Coinsquare has adopted Maker-Taker pricing model i.e it offers rebate to those t
 1.	Quick Trade – simplified trading and only most popular currencies –BTC, ETH,BCH, LTC, XRP
 2.	 Coinsquare -  advanced trading platform with trading controls for all 10 cryptocurrencies. This also offers charting tools to its users.
 
-</bre>
 
 ### **Funding Options**
 * CAD
@@ -94,7 +92,6 @@ Coinsquare has adopted Maker-Taker pricing model i.e it offers rebate to those t
 * USD
   * Wealth Wire
 
-</br>
 
 ### **Withdrawal Options**
 * CAD
