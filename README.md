@@ -160,11 +160,11 @@ It is estimated that there are over 500+ cryptoexchanges in the world, out which
 
 </br>
 
-### **Kraken:** US based cryptoexchange  . Apart from spot trading in cryptocurrencies, also offers, futures on BTC, ETH, LTC, BCH, XRP against USD and EUR  with monthly, quarterly and semiannual maturites. It also allows for margin trading in 16 cryptocurrencies with leverage upto 5x.
+#### **Kraken:** US based cryptoexchange  . Apart from spot trading in cryptocurrencies, also offers, futures on BTC, ETH, LTC, BCH, XRP against USD and EUR  with monthly, quarterly and semiannual maturites. It also allows for margin trading in 16 cryptocurrencies with leverage upto 5x.
 
 </br>
 
-### **Binance:** headquarters in Cayman Islands ,is the largest crypotexchange in the world by volume that allows its users to trade 500+ cryptocurrencies and supports 19+ fiat currencies. The exchange facilitates spot trading, margin trading,futures trading and vanilla options trading. It has partnered with Visa to offer binance cards, its users can convert and spend cryptocurrencies at 60 million+ merchants worldwide. 
+#### **Binance:** headquarters in Cayman Islands ,is the largest crypotexchange in the world by volume that allows its users to trade 500+ cryptocurrencies and supports 19+ fiat currencies. The exchange facilitates spot trading, margin trading,futures trading and vanilla options trading. It has partnered with Visa to offer binance cards, its users can convert and spend cryptocurrencies at 60 million+ merchants worldwide. 
 
 </br>
 
