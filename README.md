@@ -32,8 +32,9 @@ Coinsquare users are provided with wallet address to keep track of holdings in c
 
 ### **Founders & Origin Story**
 
-![picture3](ColeDiamond.jpeg) ![picture4](VirgileRostand.jpeg)
-
+|![picture3](ColeDiamond.jpeg)  |  ![picture4](VirgileRostand.jpeg) |
+|:----:|:---:|
+|Cole Diamond | Virgile Rostand |
 
 
 
@@ -45,9 +46,12 @@ As blockchain technology started to get traction, Rostand with his background in
 #### **Headquarters:** Toronto, Canada
 
 #### **CEO:** Stacey Hoisak
+---
 
 ### **Funding**
+
 Coinsquare has raised approx. $98.5 million  of funding over 6 rounds. The lastest round came in Feb 2021 from Corporate round. The company is funded by 4 investors. Mogo and Canaccord  Genuity Group are recent investors. The most recent was from Mogo, a digital payments and financial technology company for 19.99% stake in Coinsquare for a total consideration of approx. $56.4 million.
+
 ---
 
 ### **Acquistions**
