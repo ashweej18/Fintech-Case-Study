@@ -62,17 +62,13 @@ The company has made 5 acquistions to enhance its capabilities
 </br>
 
 ## **Business Landscape**
-</br>
 
 ### **Vision**
-
-
 The company vision to be one stop shop for all trading of digital assets and other services related to these assets. 
 
 </br>
 
 ### **Business Services**
-
 Coinsquare offers 4 services
 
 1.	Capital Markets : core business, that seeks to simplify trading of cryptocurrencies. Its value proposition comes from providing its customers –ease of trading, accessibility and security.
@@ -84,7 +80,6 @@ Coinsquare offers 4 services
 </br>
 
 ### **Revenue Model**
-
 Coinsquare has adopted Maker-Taker pricing model i.e it offers rebate to those that liquidity (Market Maker) and charge customers who take liquidity ( Market Taker).  The company has two trading options for its customers 
  
 1.	Quick Trade – simplified trading and only most popular currencies –BTC, ETH,BCH, LTC, XRP
@@ -93,7 +88,6 @@ Coinsquare has adopted Maker-Taker pricing model i.e it offers rebate to those t
 </bre>
 
 ### **Funding Options**
-
 * CAD
   * Interac e-Transfer
   * Wire Transfer
@@ -103,7 +97,6 @@ Coinsquare has adopted Maker-Taker pricing model i.e it offers rebate to those t
 </br>
 
 ### **Withdrawal Options**
-
 * CAD
   * Direct Bank Deposit
   * Wire Transfer
@@ -150,21 +143,24 @@ Coinsquare has adopted Maker-Taker pricing model i.e it offers rebate to those t
 
 It is estimated that there are over 500+ cryptoexchanges in the world, out which about 310 are tracked on coinmarketcap. Crypto exchange business is characterized by low barrier of entry, low switching cost for customers and low differentiation among participants. As the market matures, we can expect the reduction of trading fees and consolidation among the cryptoexchanges.
 
-</br>
 
-#### **Coinbase:** US based cryptoexchange that started its operation in 2012, has 56 million verified users, with an ecosystem that partners in over 100 countries. The platform offers trading in about 50  cryptocurrencies and quotes them against 4 fiat currencies. 
-
-</br>
-
-#### **Gemini:**  New York based cryptoexchange started by Winklevoss Twins in 2014. The company recently announced no annual fee credit card in association with Master Card that earns 3%  back on purchases automatically into cardholders’ Gemini account. The company not only offers trading platform and wallets, it offers custody solutions to store digital assets, and Gemini Dollar (1:1 USD backed stable coin) and Gemini Pay ( to facilitate everyday purchases at brick  and mortar stores).
+#### **Coinbase:** 
+US based cryptoexchange that started its operation in 2012, has 56 million verified users, with an ecosystem that partners in over 100 countries. The platform offers trading in about 50  cryptocurrencies and quotes them against 4 fiat currencies. 
 
 </br>
 
-#### **Kraken:** US based cryptoexchange  . Apart from spot trading in cryptocurrencies, also offers, futures on BTC, ETH, LTC, BCH, XRP against USD and EUR  with monthly, quarterly and semiannual maturites. It also allows for margin trading in 16 cryptocurrencies with leverage upto 5x.
+#### **Gemini:**  
+New York based cryptoexchange started by Winklevoss Twins in 2014. The company recently announced no annual fee credit card in association with Master Card that earns 3%  back on purchases automatically into cardholders’ Gemini account. The company not only offers trading platform and wallets, it offers custody solutions to store digital assets, and Gemini Dollar (1:1 USD backed stable coin) and Gemini Pay ( to facilitate everyday purchases at brick  and mortar stores).
 
 </br>
 
-#### **Binance:** headquarters in Cayman Islands ,is the largest crypotexchange in the world by volume that allows its users to trade 500+ cryptocurrencies and supports 19+ fiat currencies. The exchange facilitates spot trading, margin trading,futures trading and vanilla options trading. It has partnered with Visa to offer binance cards, its users can convert and spend cryptocurrencies at 60 million+ merchants worldwide. 
+#### **Kraken:** 
+US based cryptoexchange  . Apart from spot trading in cryptocurrencies, also offers, futures on BTC, ETH, LTC, BCH, XRP against USD and EUR  with monthly, quarterly and semiannual maturites. It also allows for margin trading in 16 cryptocurrencies with leverage upto 5x.
+
+</br>
+
+#### **Binance:**
+ headquarters in Cayman Islands ,is the largest crypotexchange in the world by volume that allows its users to trade 500+ cryptocurrencies and supports 19+ fiat currencies. The exchange facilitates spot trading, margin trading,futures trading and vanilla options trading. It has partnered with Visa to offer binance cards, its users can convert and spend cryptocurrencies at 60 million+ merchants worldwide. 
 
 </br>
 
