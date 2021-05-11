@@ -69,11 +69,11 @@ The company has made 5 acquistions to enhance its capabilities
 
 ## **Business Landscape**
 ---
----
+
 ### **Vision**
 The company vision to be one stop shop for all trading of digital assets and other services related to these assets. 
 ---
----
+
 ### **Business Services**
 Coinsquare offers 4 services
 
@@ -136,8 +136,9 @@ Coinsquare has adopted Maker-Taker pricing model i.e it offers rebate to those t
  * AWS
  * Kubernetes
 
+
  ----
- ----
+ 
 
  ### **Competition**
 
