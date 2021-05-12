@@ -25,8 +25,7 @@ Bitcoin (BTC/USD),also known as the bellwether of the cryptocurrency industry, h
 **Cryptocurrencies on Coinsquare**:
 Bitcoin, Ethereum, Litecoin, Bitcoin Cash ABC,  Bitcoin Cash SV, Dogecoin, Dash, Ripple, Ethereum Classic, Stellar
 
-**Fiat Currencies supported on Coinsquare**:  
-USD, CAD, EUR, GBP, CHF
+**Fiat Currencies supported on Coinsquare**: USD, CAD, EUR, GBP, CHF
 
 Coinsquare users are provided with wallet address to keep track of holdings in cryptocurrencies. The company has strong ledger system that keep track of every coin traded on its platform on daily basis. Additionally, 95% of all funds are stored offline in cold wallets, which are less vulnerable to hacking
 
@@ -60,7 +59,7 @@ Coinsquare has raised approx. $98.5 million  of funding over 6 rounds. The laste
 The company has made 5 acquistions to enhance its capabilities
 
 |Company   | Announcement Date  | Details |
-|:---------|:------------------:|:---------|
+|:---------|:------------------|:---------|
 |Just.Cash | July 2019 | Just.Cash is mobile application that allows users to purchase cryptocurrency through ATM |
 |Cryptiv | March 2019 | Cryptiv's enterprise blockchain wallet system allows traditional firms to handle blockchain enabled digital assets |
 |StellarX | February 2019 | StellarX is an online platform that offers trading solutions for businesses |
@@ -194,7 +193,6 @@ US based cryptoexchange. Apart from spot trading in cryptocurrencies, also offer
 * Lists only 57 cryptocurrencies
 * Higher Fees
 
-
 ---
 #### **Binance:**
  headquarters in Cayman Islands,is the largest crypotexchange in the world by volume that allows its users to trade 500+ cryptocurrencies and supports 19+ fiat currencies. The exchange facilitates spot trading, margin trading,futures trading and vanilla options trading. It has partnered with Visa to offer binance cards, its users can convert and spend cryptocurrencies at 60 million+ merchants worldwide. 
@@ -212,30 +210,36 @@ US based cryptoexchange. Apart from spot trading in cryptocurrencies, also offer
 
 
 ---
----
 ## **Results**
 
-The key metrics for evaluating a cryptoexchange are
+The key business metrics for evaluating a cryptoexchange are
 
-1.	Security 
-2.	Ease of Trading
-3.	Liquidity
-4.	Product Depth
+1.	Verified Users
+2.	Monthly Transacting Users
+3.	Assets on Platform
+4.	Trading Volume
 
-Coinsquare is wellknown for it security record and ease of trading. The company has far less user base and active trading volume compared to other exchanges. Coinsquare currently offer only 10 cryptocurrencies to be traded on its platform out of estimated 7000 cryptocurrencies.
+ The **Verified users** (Retail users, institutional clients) are accounts registered and confirmed on platform. The extent of verfied users determines potential revenue opportunity. 
+ 
+ Users of platform can be passive or active on the platform. Average **Monthly Transacting Users** determines actual revenue.
+
+ **Assets on Platform** include both fiat currencies and cryptocurrencies. Greater the number of assets, higher the monetization opportunity.
 
 
----
+ **Trading Volume** is derived by multiplying quantity of crypto asset and price. Greater the trading volume and Greater the price volatility of crypto assets, higher the revenue.
+
+Coinsquare is wellknown for it security record and ease of trading. The company has far less user and trading volume compared to other exchanges. Coinsquare currently offer only 10 cryptocurrencies to be traded on its platform out of estimated 7000 cryptocurrencies.
+
+
 ---
 
 ## **Recommendation**
 
 1.	**Regulations:**   As cryptocurrencies are relatively new, many countries have either banned it or have undefined regulations.  Hence, Coinsquare needs to nimble and have strong compliance framework to navigate the changing regulations
-2.	**User Base:**  Unlike, traditional exchanges where participation is limited through broker/dealer network, potentially anybody can trade on cryptoexchange. The exchange which has highest user base and high trading volume is likely to dominate the market.  Coinsquare should focus on increasing it user base by aggressively expanding in US, Europe and Asian Markets
+2.	**Verfified User Base:**   The exchange which has highest user base and high trading volume is likely to dominate the market.  Coinsquare should focus on increasing it user base by aggressively expanding in US, Europe and Asian Markets
 3.	**Product Depth & Innovation:**  Apart from adding more cryptocurrencies for spot trading, Coinsquare can look at offering margin trading, crypto future and options on its platform
 4.	**Listing Policies:**  Coinsquare can look at publishing listing policies to evaluate altcoins.
 
----
 ---
 
 ## **References**
