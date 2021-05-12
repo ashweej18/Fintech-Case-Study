@@ -32,7 +32,7 @@ Coinsquare users are provided with wallet address to keep track of holdings in c
 
 ---
 
-### **Founders & Origin Story**
+### **Origin Story**
 
 |![picture3](Images/ColeDiamond.jpeg)  |  ![picture4](Images/VirgileRostand.jpeg) |
 |:----:|:---:|
@@ -158,14 +158,42 @@ US based cryptoexchange that started its operation in 2012, has 56 million verif
 
 **Pros**
 * User friendly platform
+* Supports investors locatedin 100 countries
+* Trusted by SEC and recently had an IPO
+* USD Cash Balances are FDIC insured upto $250,000
+
+**Cons**
+* Allows trading of 51 cryptocurrencies much lesser than Binance
+* Higher Fees
+* Doesnot support advanced trading features 
 
 ---
 #### **Gemini:**  
 New York based cryptoexchange started by Winklevoss Twins in 2014. The company recently announced no annual fee credit card in association with Master Card that earns 3%  back on purchases automatically into cardholders’ Gemini account. The company not only offers trading platform and wallets, it offers custody solutions to store digital assets, and Gemini Dollar (1:1 USD backed stable coin) and Gemini Pay ( to facilitate everyday purchases at brick  and mortar stores).
 
+
+**Pros**
+* USD Cash Balances are FDIC insured upto $250,000
+* Stored cryptocurrency earn interest
+* Insurance available on Gemini Wallet
+
+**Cons**
+* Only Available in 50 countries
+* Supports only 33 cryptocurrencies
+* Higher Fees
 ---
 #### **Kraken:** 
 US based cryptoexchange. Apart from spot trading in cryptocurrencies, also offers, futures on BTC, ETH, LTC, BCH, XRP against USD and EUR  with monthly, quarterly and semiannual maturites. It also allows for margin trading in 16 cryptocurrencies with leverage upto 5x.
+
+**Pros**
+* Highly secure
+* Offers futures trading & margin trading
+* Offers advanced trading features
+
+**Cons**
+* Lists only 57 cryptocurrencies
+* Higher Fees
+
 
 ---
 #### **Binance:**
