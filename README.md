@@ -59,7 +59,7 @@ Coinsquare has raised approx. $98.5 million  of funding over 6 rounds. The laste
 The company has made 5 acquistions to enhance its capabilities
 
 |Company   | Announcement Date  | Details |
-|:---------|:------------------|:---------|
+|:---------|:------------------:|:---------|
 |Just.Cash | July 2019 | Just.Cash is mobile application that allows users to purchase cryptocurrency through ATM |
 |Cryptiv | March 2019 | Cryptiv's enterprise blockchain wallet system allows traditional firms to handle blockchain enabled digital assets |
 |StellarX | February 2019 | StellarX is an online platform that offers trading solutions for businesses |
@@ -135,7 +135,6 @@ Coinsquare has adopted Maker-Taker pricing model i.e it offers rebate to those t
  * Java
  * AWS
  * Kubernetes
-
 
  ----
  
@@ -236,13 +235,46 @@ Coinsquare is wellknown for it security record and ease of trading. The company 
 ## **Recommendation**
 
 1.	**Regulations:**   As cryptocurrencies are relatively new, many countries have either banned it or have undefined regulations.  Hence, Coinsquare needs to nimble and have strong compliance framework to navigate the changing regulations
-2.	**Verfified User Base:**   The exchange which has highest user base and high trading volume is likely to dominate the market.  Coinsquare should focus on increasing it user base by aggressively expanding in US, Europe and Asian Markets
+2.	**Verfified User Base:**   The exchange that has highest user base and high trading volume is likely to dominate the market.  Coinsquare should focus on increasing it user base by aggressively expanding in US, Europe and Asian Markets
 3.	**Product Depth & Innovation:**  Apart from adding more cryptocurrencies for spot trading, Coinsquare can look at offering margin trading, crypto future and options on its platform
 4.	**Listing Policies:**  Coinsquare can look at publishing listing policies to evaluate altcoins.
 
 ---
 
 ## **References**
+
+1. [Coinsquare.com](https://coinsquare.com/)
+2. [Blog -CoinSquare](https://blog.coinsquare.com/)
+3. [Newswire - Coinsquare close $30 million investment](https://www.newswire.ca/news-releases/canadian-digital-currency-exchange-coinsquare-closes-record-30-million-investment-673374003.html)
+4. [Bloomberg - Coinsquare crytpoexchange eyes $120 million IPO](https://www.bloomberg.com/news/articles/2018-01-24/coinsquare-crypto-exchange-eyes-120-million-ipo-in-canada)
+5. [Crunchbase - Coinsquare](https://www.crunchbase.com/organization/coinsquare)
+6. [Canadian Blockchain Census 2019 -Chamber of Digital Commerce Canada](https://www.blockchainresearchinstitute.org/wp-content/uploads/2019/10/Chamber-BlockchainCensus-2019.pdf)
+7. [Securities.io -What are Digital Assets](https://www.securities.io/what-are-digital-assets/)
+8. [Investopedia.com](https://www.investopedia.com/cryptocurrency-4427699)
+9. [Forbes- What's so different about Cryptocrurrency Exchage](https://www.forbes.com/sites/leslieankney/2019/01/04/whats-so-different-about-cryptocurrency-exchanges/?sh=701b81aa27e3)
+10. [Blog -Good Audience : Crypto Exchange Vs Stock Exchange](https://blog.goodaudience.com/crypto-exchange-vs-stock-exchanges-a-comparative-study-9530c98c0ea8)
+11. [Statista -Bitcoin Trading Volume across the world](https://www.statista.com/statistics/1195753/bitcoin-trading-selected-countries/)
+12. [Global Crytpocurrency Report -Ibinex](https://www.financemagnates.com/wp-content/uploads/2018/10/Global-Cryptocurrency-Market-Report.pdf)
+13. [NewsWire --Coinsquare acquires BlockEQ to expand its offerings ](https://www.financemagnates.com/wp-content/uploads/2018/10/Global-Cryptocurrency-Market-Report.pdf)
+14. [Marketwatch.com -Coinbaie IPO: Everything you need to know about 'watershed momemt' in crypto](https://www.financemagnates.com/wp-content/uploads/2018/10/Global-Cryptocurrency-Market-Report.pdf)
+15. [US SEC EDGAR -Coinbase IPO Filings](https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm)
+16. [CoinIQ.com Coinsquare Vs Coinbase: The crucial difference is availability](https://coiniq.com/coinsquare-vs-coinbase/)
+17. [CNBC.com -Coinbase is unlike any market debut on Wallstreet](https://www.cnbc.com/2021/04/13/coinbase-is-unlike-any-market-debut-wall-street-has-ever-seen-.html)
+18. [Coinmarketcap.com -Top Cryptocurrency Spot Exchanges](https://coinmarketcap.com/rankings/exchanges/)
+19. [Ivewy.uwo.ca - Coinsquare](https://www.ivey.uwo.ca/scotiabank-digital-banking-lab/canada-fintech/blockchain-crypto/coinsquare/)
+20. [Coinsquare Blog - How Coinsquare Founder Virgile Rostand broke barriers to build Canada's Cryptocurrency Industry](https://news.coinsquare.com/digital-currency/coinsquare-founder-virgile-rostand-cryptocurrency/)
+21. [Ontario Securities Commision -OSC Panel approves settlement with Coinsquare, Cole Diamond, Virgile Rostand & Felix Mazer](https://www.osc.ca/en/news-events/news/osc-panel-approves-settlement-coinsquare-cole-diamond-virgile-rostand-and-felix-mazer)
+22. [Gemini.com](https://www.gemini.com/about)
+23. [Kraken.com](https://www.kraken.com/)
+24. [Coinbase.com](https://www.coinbase.com/)
+25. [Binance.com](https://www.binance.com/en)
+
+
+
+
+
+
+
 
 
 
