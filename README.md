@@ -72,7 +72,9 @@ The company has made 5 acquistions to enhance its capabilities
 ---
 
 ### **Vision**
+
 The company vision to be one stop shop for all trading of digital assets and other services related to these assets. 
+
 ---
 
 ### **Business Services**
@@ -268,6 +270,8 @@ Coinsquare is wellknown for it security record and ease of trading. The company 
 23. [Kraken.com](https://www.kraken.com/)
 24. [Coinbase.com](https://www.coinbase.com/)
 25. [Binance.com](https://www.binance.com/en)
+26. [Blog -TWG](https://twg.io/blog/case-studies/coinsquare/)
+
 
 
 
